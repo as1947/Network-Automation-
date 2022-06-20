@@ -1,5 +1,5 @@
 # Network-Automation
-Python Scripts for Network Automation
+Python3 Scripts for Network Automation
 
 Python scripts fro router and switch configuration
 We programmatically configured the loopback addresses and OSPF on the Cisco IOS of the router 
